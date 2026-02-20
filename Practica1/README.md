@@ -5,7 +5,7 @@
 1. Abre NetBeans
 2. Ve a File → Open Project
 3. Busca y selecciona la carpeta Practica1
-4. Haz clic en el botón Run (▶)
+4. Haz clic en el botón Run 
 
 ## Requisitos
 - Java JDK 8 o superior
